@@ -1,6 +1,6 @@
 # aliumar (portfolio site)
 
-Personal portfolio, "Ali Umar — Finance, Data & Analytics", with a Swiss Army knife theme. Plain static site with no build step and no dependencies. Not deployed yet.
+Personal portfolio, "Ali Umar — Finance, Data & Analytics", with a Swiss Army knife theme. Plain static site with no build step and no dependencies. Published with GitHub Pages from `main` (repo `aliumar521/portfolio`): https://aliumar521.github.io/portfolio/, so every push to `main` goes live.
 
 ## Files
 `index.html` (page), `styles.css`, `app.js` (page logic), `knife.js` (the knife interaction), `tweaks-panel.js` (design tweak controls).
